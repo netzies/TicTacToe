@@ -44,4 +44,4 @@ while True:
       inputs[8]) or inputs[0] == inputs[4] == inputs[8] or inputs[4] == inputs[2] == inputs[6]:
       print('computer wins')
       break
-#3rd possibility that the computer wins ..
+#3rd possibility that the computer wins
